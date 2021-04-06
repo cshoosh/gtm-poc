@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "588241975931",
+    "firebase_url": "https://rc-projects-150312.firebaseio.com",
+    "project_id": "rc-projects-150312",
+    "storage_bucket": "rc-projects-150312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588241975931:android:f1f924d89045966f3fc0de",
+        "android_client_info": {
+          "package_name": "com.example.googletag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588241975931-dcvb8ra2e9nhajl26cn7aaio4gauecab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuHIuIagNW55GRMX7kf2RGc1p3-f2aU4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588241975931-dcvb8ra2e9nhajl26cn7aaio4gauecab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588241975931:android:9212495ce83cc583",
+        "android_client_info": {
+          "package_name": "com.medibookr.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588241975931-dcvb8ra2e9nhajl26cn7aaio4gauecab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuHIuIagNW55GRMX7kf2RGc1p3-f2aU4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588241975931-dcvb8ra2e9nhajl26cn7aaio4gauecab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
